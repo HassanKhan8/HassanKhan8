@@ -1,8 +1,5 @@
 <!--
 
-## Hi there 👋
-**HassanKhan8/HassanKhan8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,8 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Khan</h1>
-<h3 align="center">AI/ML/DL • Computer Vision • Natural Language Processing • AI Enthusiast</h3>
+<h3 align="center">AI • Machine Learning • Deep Learning • Computer Vision • NLP</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&center=true&vCenter=true&width=500&height=28&lines=Artificial+Intelligence+Engineer;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+OpenCV+%7C+YOLOv8;Natural+Language+Processing;AI+Research+Enthusiast;Turning+Data+Into+Intelligence" alt="Typing SVG" />
@@ -39,9 +37,9 @@ I focus on building **practical, scalable, and impactful** AI solutions for real
 ## 🛠️ Tech Stack
 
 - **Languages:** Python · C++
-- **AI/ML:** PyTorch · TensorFlow · Scikit-learn · YOLOv8 · DeepLabv3+ · OpenCV  
+- **AI/ML:** PyTorch · TensorFlow · Scikit-learn · YOLOv8 · OpenCV  
 - **Database:** MySQL
-- **Tools:** VScode · Google Colab · Spyder · Jupyder Notebook
+- **Tools:** VS Code · Google Colab · Spyder · Jupyter Notebook
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,mysql" />
@@ -61,10 +59,11 @@ I focus on building **practical, scalable, and impactful** AI solutions for real
 
 ## 📘 What I'm Currently Learning
 
-- LLM Fine-Tuning (Instruction-tuning & embeddings)  
-- Multi-modal deep learning  
-- Real-time computer vision optimization  
-- Efficient training workflows and model deployment  
+- AI Automation  
+- LLM Fine-Tuning  
+- Multi-modal Deep Learning  
+- Real-time Computer Vision Optimization  
+- Efficient Training Workflows & Model Deployment  
 
 ---
 
@@ -81,9 +80,13 @@ I focus on building **practical, scalable, and impactful** AI solutions for real
   <a href="mailto:mhassankhan029@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40px" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://github.com/hassanKhan8">
     <img src="https://skillicons.dev/icons?i=github" width="40px" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://muhammad-hassan-khan-portfolio.netlify.app">
     <img src="https://skillicons.dev/icons?i=webflow" width="40px" />
   </a>
@@ -91,11 +94,17 @@ I focus on building **practical, scalable, and impactful** AI solutions for real
 
 ---
 
+## 🤝 Let's Connect!
+I’m always open to meaningful conversations, collaborations, and new ideas in the world of **AI, Machine Learning, and Computer Vision**. Whether you want to discuss a project or explore an idea, just say hi — feel free to reach out. I'd love to connect and grow together!
+
+---
+
+<!-- Auto Light/Dark Snake (optional) -->
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
 # 🎉 **Thanks for visiting!**
-⭐ *Feel free to ask for collaborations!*
+⭐ *I am open to work & collaborations!*
