@@ -89,13 +89,6 @@ Here are some ideas to get you started:
 
 ---
 
-<h3>DevOps & Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,postman" />
-</p>
-
----
-
 # 🚀 **Featured Projects**
 
 ## 🔹 Underwater Crack Detection (YOLOv8 Segmentation)
