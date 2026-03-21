@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 ---
 
 ### 🔭 I’m currently working on  
-- Underwater Crack Detection using YOLOv8 Segmentation  
 - Computer Vision Classical Pipelines (OpenCV)  
 - NLP Projects like Sentiment Analysis  
-- ML/DL applied predictive modeling  
+- ML/DL applied predictive modeling 
 
 ### 🌱 I’m currently learning  
 - LLM Fine-Tuning  
@@ -66,7 +65,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3>Mobile App Development</h3>
+<h3>Basic Mobile App Development</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
 </p>
