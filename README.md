@@ -37,7 +37,7 @@ I focus on building **practical, scalable, and impactful** AI solutions for real
 ## 🛠️ Tech Stack
 
 - **Languages:** Python · C++
-- **AI/ML:** PyTorch · TensorFlow · Scikit-learn · YOLOv8 · OpenCV  
+- **AI/ML:** PyTorch · TensorFlow · Scikit-learn · YOLOv8 · OpenCV · NLTK  
 - **Database:** MySQL
 - **Tools:** VS Code · Google Colab · Spyder · Jupyter Notebook
 
@@ -53,7 +53,8 @@ I focus on building **practical, scalable, and impactful** AI solutions for real
 - **FitAvatar (AI Fitness Assistant)** – Real-time pose detection + avatar demonstration + voice feedback.  
 - **Contextual Diet Recommender** – Personalized nutrition suggestions using AI-driven logic.  
 - **Rainfall Prediction Model** – ML-based forecasting using environmental and meteorological data.  
-- **Sentiment Analysis (NLP)** – Text classification pipeline for movie review polarity detection.
+- **Movie Sentiment Analysis (NLP)** – Text classification pipeline for movie review polarity detection.
+- **Bottle Defect Detection System** – Implemented image processing techniques, ensuring efficient inspection without using deep learning.
 
 ---
 
