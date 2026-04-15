@@ -55,6 +55,7 @@ I focus on building **practical, scalable, and impactful** AI solutions for real
 - **Rainfall Prediction Model** – ML-based forecasting using environmental and meteorological data.  
 - **Movie Sentiment Analysis (NLP)** – Text classification pipeline for movie review polarity detection.
 - **Bottle Defect Detection System** – Implemented image processing techniques, ensuring efficient inspection without using deep learning.
+- **AI Assignment Guide** – A GenAI tool that guides students with steps, examples and hints instead of giving direct answers.
 
 ---
 
@@ -64,7 +65,8 @@ I focus on building **practical, scalable, and impactful** AI solutions for real
 - LLM Fine-Tuning  
 - Multi-modal Deep Learning  
 - Real-time Computer Vision Optimization  
-- Efficient Training Workflows & Model Deployment  
+- Efficient Training Workflows & Model Deployment
+- GenAI
 
 ---
 
